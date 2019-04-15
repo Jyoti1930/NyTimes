@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="section_arrays">
+        <item>Arts</item>
+        <item>Automobiles</item>
+        <item>Blogs</item>
+        <item>Books</item>
+        <item>Education</item>
+        <item>Science</item>
+        <item>Technology</item>
+        <item>all-sections</item>
+    </string-array>
+
+
+    <string-array name="period_arrays">
+        <item>1</item>
+        <item>7</item>
+        <item>30</item>
+    </string-array>
+</resources>
